@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668769433494",
+    "project_id": "airflight-f6f09",
+    "storage_bucket": "airflight-f6f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668769433494:android:f7d3738514bc2b90728fb7",
+        "android_client_info": {
+          "package_name": "com.latifnurohmanbn.airflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668769433494-ep4uqj92jftlqp956umhl3toi87srk72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6avXLL5O0aGtb6ddH1E8REkgapup7svg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668769433494-ep4uqj92jftlqp956umhl3toi87srk72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
